@@ -19,4 +19,5 @@ Pointer events | [caniuse](https://caniuse.com/#feat=pointer) | [jquery/PEP](htt
 `document.scrollingElement` | [caniuse](https://caniuse.com/#feat=document-scrollingelement) | [mathiasbynens/document.scrollingElement](https://github.com/mathiasbynens/document.scrollingElement)
 `element.classList` | [caniuse](https://caniuse.com/#feat=classlist) | [eligrey/classList.js](https://github.com/eligrey/classList.js)
 `element.closest` <br> `element.matches` | [caniuse (closest)](https://caniuse.com/#feat=element-closest) <br> [caniuse (matches)](https://caniuse.com/#search=matches) | [jonathantneal/closest](https://github.com/jonathantneal/closest)
-
+`IndexedDB` | [caniuse](https://caniuse.com/#feat=indexeddb) | [axemclion/IndexedDBShim](https://github.com/axemclion/IndexedDBShim)
+`FormData` | [caniuse](https://caniuse.com/#feat=xhr2) | [jimmywarting/FormData](https://github.com/jimmywarting/FormData)
