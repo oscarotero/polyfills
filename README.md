@@ -21,3 +21,4 @@ DOM Level 4 methods <br> `element.closest` <br> `element.matches` <br> `element.
 `IndexedDB` | [caniuse](https://caniuse.com/#feat=indexeddb) | [axemclion/IndexedDBShim](https://github.com/axemclion/IndexedDBShim)
 `FormData` | [caniuse](https://caniuse.com/#feat=xhr2) | [jimmywarting/FormData](https://github.com/jimmywarting/FormData)
 Clipboard API | [caniuse](https://caniuse.com/#feat=clipboard) | [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill)
+`<template>` | [caniuse](https://caniuse.com/#feat=template) | [webcomponents/template](https://github.com/webcomponents/template)
