@@ -23,3 +23,4 @@ DOM Level 4 methods <br> `element.closest` <br> `element.matches` <br> `element.
 Clipboard API | [caniuse](https://caniuse.com/#feat=clipboard) | [lgarron/clipboard-polyfill](https://github.com/lgarron/clipboard-polyfill)
 `<template>` | [caniuse](https://caniuse.com/#feat=template) | [webcomponents/template](https://github.com/webcomponents/template)
 `window.location.origin` | [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLHyperlinkElementUtils/origin) | [kylewelsby/window-location-origin](https://github.com/kylewelsby/window-location-origin)
+`window.navigator.sendBeacon()` | [caniuse](https://caniuse.com/#feat=beacon) | [miguelmota/Navigator.sendBeacon](https://github.com/miguelmota/Navigator.sendBeacon)
