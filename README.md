@@ -24,3 +24,4 @@ Clipboard API | [caniuse](https://caniuse.com/#feat=clipboard) | [lgarron/clipbo
 `<template>` | [caniuse](https://caniuse.com/#feat=template) | [webcomponents/template](https://github.com/webcomponents/template)
 `window.location.origin` | [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLHyperlinkElementUtils/origin) | [kylewelsby/window-location-origin](https://github.com/kylewelsby/window-location-origin)
 `window.navigator.sendBeacon()` | [caniuse](https://caniuse.com/#feat=beacon) | [miguelmota/Navigator.sendBeacon](https://github.com/miguelmota/Navigator.sendBeacon)
+Web Animations API | [caniuse](https://caniuse.com/#feat=web-animation) | [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js)
