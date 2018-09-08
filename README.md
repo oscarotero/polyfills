@@ -26,3 +26,4 @@ Clipboard API | [caniuse](https://caniuse.com/#feat=clipboard) | [lgarron/clipbo
 `window.navigator.sendBeacon()` | [caniuse](https://caniuse.com/#feat=beacon) | [miguelmota/Navigator.sendBeacon](https://github.com/miguelmota/Navigator.sendBeacon)
 Web Animations API | [caniuse](https://caniuse.com/#feat=web-animation) | [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js)
 Custom elements | [caniuse](https://caniuse.com/#feat=custom-elementsv1) | [webcomponents/custom-elements](https://github.com/webcomponents/custom-elements)
+`URL` | [caniuse](https://caniuse.com/#feat=url) | [webcomponents/URL](https://github.com/webcomponents/URL)
