@@ -28,3 +28,4 @@ Web Animations API | [caniuse](https://caniuse.com/#feat=web-animation) | [web-a
 Custom elements | [caniuse](https://caniuse.com/#feat=custom-elementsv1) | [webcomponents/custom-elements](https://github.com/webcomponents/custom-elements)
 `URL` | [caniuse](https://caniuse.com/#feat=url) | [webcomponents/URL](https://github.com/webcomponents/URL)
 `HTMLFormElement.requestSubmit()` | [caniuse](https://caniuse.com/#feat=mdn-api_htmlformelement_requestsubmit) | [javan/form-request-submit-polyfill](https://github.com/javan/form-request-submit-polyfill)
+`:focus-visible` | [caniuse](https://caniuse.com/#feat=mdn-css_selectors_focus-visible) | [WICG/focus-visible](https://github.com/WICG/focus-visible)
