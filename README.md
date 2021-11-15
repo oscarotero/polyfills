@@ -30,3 +30,4 @@ Custom elements | [caniuse](https://caniuse.com/#feat=custom-elementsv1) | [webc
 `HTMLFormElement.requestSubmit()` | [caniuse](https://caniuse.com/#feat=mdn-api_htmlformelement_requestsubmit) | [javan/form-request-submit-polyfill](https://github.com/javan/form-request-submit-polyfill)
 `:focus-visible` | [caniuse](https://caniuse.com/#feat=mdn-css_selectors_focus-visible) | [WICG/focus-visible](https://github.com/WICG/focus-visible)
 Scroll-to-Text fragment | [caniuse](https://caniuse.com/url-scroll-to-text-fragment) | [text-fragments-ts](https://code.treora.com/gerben/text-fragments-ts)
+Scroll timeline | [spec](https://drafts.csswg.org/scroll-animations-1/) | [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
