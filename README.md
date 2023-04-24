@@ -32,3 +32,4 @@ Custom elements | [caniuse](https://caniuse.com/#feat=custom-elementsv1) | [webc
 Scroll-to-Text fragment | [caniuse](https://caniuse.com/url-scroll-to-text-fragment) | [text-fragments-ts](https://code.treora.com/gerben/text-fragments-ts)
 Scroll timeline | [spec](https://drafts.csswg.org/scroll-animations-1/) | [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
 Container Query | [spec](https://drafts.csswg.org/css-contain-3/) [caniuse](https://caniuse.com/css-container-queries) | [container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill)
+`popover` attribute | [caniuse](https://caniuse.com/mdn-html_global_attributes_popover) | [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill)
