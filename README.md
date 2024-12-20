@@ -34,3 +34,4 @@ Scroll timeline | [spec](https://drafts.csswg.org/scroll-animations-1/) | [flack
 Container Query | [spec](https://drafts.csswg.org/css-contain-3/), [caniuse](https://caniuse.com/css-container-queries) | [container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill)
 `popover` attribute | [caniuse](https://caniuse.com/mdn-html_global_attributes_popover) | [oddbird/popover-polyfill](https://github.com/oddbird/popover-polyfill)
 `URLPattern` | [caniuse](https://caniuse.com/mdn-api_urlpattern), [MDN](https://developer.mozilla.org/en-US/docs/Web/API/URLPattern) | [kenchris/urlpattern-polyfill](https://github.com/kenchris/urlpattern-polyfill)
+Invoker Commands API | [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Invoker_Commands_API) | [keithamus/invokers-polyfill](https://github.com/keithamus/invokers-polyfill)
